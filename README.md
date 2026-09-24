@@ -38,9 +38,9 @@
 
 <div align="center">
 
-| 📍 Native Geolocation | 🔔 UnifiedPush Notifications | 🛡️ Custom Security Controls | 🎨 OLED Themes & Icons |
+| 📍 Native Geolocation | ⚡ Secret Settings Panel | 🛡️ Custom Security Controls | 🎨 OLED Themes & Icons |
 | :---: | :---: | :---: | :---: |
-| High-precision GPS & Network bridge working on HTTP & HTTPS | Real-time push notifications with WebPush / UnifiedPush | Configurable SSL bypass for local self-signed certs | Dynamic launcher icon switching & OLED dark mode |
+| High-precision GPS & Network bridge working on HTTP & HTTPS | A hidden settings window that appears only when you hold four fingers on the screen for 4 seconds. | Configurable SSL bypass for local self-signed certs | Dynamic launcher icon switching & OLED dark mode |
 
 </div>
 
@@ -58,8 +58,8 @@
       <img src="https://github.com/user-attachments/assets/59f190cd-84f5-412b-b595-b4cd58a738e5" width="380px" alt="App Preview 1" />
     </td>
     <td align="center">
-      <strong>⚡ OLED Theme & Insets</strong><br/><br/>
-      <img src="https://github.com/user-attachments/assets/20e86af3-755f-410e-97cd-93af78a65845" width="380px" alt="App Preview 2" />
+      <strong>⚡ Secret Settings Panel</strong><br/><br/>
+      <img src="https://github.com/user-attachments/assets/a669bd65-8120-43e4-b82f-5b87b1fc29b0" width="380px" alt="App Preview 2" />
     </td>
   </tr>
 </table>
