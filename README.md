@@ -87,8 +87,6 @@ git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
 cd YOUR_REPO
 ```
 
-```
-
 ### 2. Build & Run
 ```bash
 # Generate signing key (first time only)
@@ -128,5 +126,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
 
 <div align="center">
-  <sub>Built with ❤️ for Android & PWAs</sub>
+  <sub>Built with ❤️ and Android Studio</sub>
 </div>
