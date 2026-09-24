@@ -6,11 +6,11 @@
 
 <!-- BADGES & PINS -->
 <p align="center">
-  <a href="https://github.com/Sir4y/adventurelogapp/releases">
-    <img src="https://img.shields.io/github/v/release/Sir4y/adventurelogapp?color=00C853&label=Release&style=for-the-badge" alt="Latest Release" />
+  <a href="https://github.com/Sir4y/AdventureLog-App/releases">
+    <img src="https://img.shields.io/github/v/release/Sir4y/AdventureLog-App?color=00C853&label=Release&style=for-the-badge" alt="Latest Release" />
   </a>
-  <a href="https://github.com/Sir4y/adventurelogapp/releases">
-    <img src="https://img.shields.io/github/downloads/Sir4y/adventurelogapp/total?color=2196F3&label=Downloads&style=for-the-badge&logo=github" alt="Total Downloads" />
+  <a href="https://github.com/Sir4y/AdventureLog-App/releases">
+    <img src="https://img.shields.io/github/downloads/Sir4y/AdventureLog-App/total?color=2196F3&label=Downloads&style=for-the-badge&logo=github" alt="Total Downloads" />
   </a>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Built for Android" />
   <img src="https://img.shields.io/badge/Java%20%2F%20Android%20SDK-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java / Android SDK" />
