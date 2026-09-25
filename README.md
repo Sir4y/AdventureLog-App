@@ -83,8 +83,8 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/Sir4y/AdventureLog-App.git
+cd Sir4y/AdventureLog-Ap
 ```
 
 ### 2. Build & Run
