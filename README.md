@@ -84,7 +84,7 @@
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Sir4y/AdventureLog-App.git
-cd Sir4y/AdventureLog-Ap
+cd AdventureLog-App
 ```
 
 ### 2. Build & Run
